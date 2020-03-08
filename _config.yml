@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Xin Wang"
+title                    : "Huilin Zhou"
 title_separator          : "-"
-name                     : &name "Xin Wang"
+name                     : &name "Huilin Zhou"
 description              : &description "Ph.D. Candidate"
-url                      : https://xinwang98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhouhuilin116.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/xinwang98/xinwang98.github.io"
+repository               : "https://github.com/Nancy0116/zhouhuilin116.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xin Wang"
-  avatar           : "me.jpg"
+  name             : "Huilin Zhou"
+  avatar           : "证件照.jpg"
   bio              : "Ph.D. Candidate, Shanghai JiaoTong University"
   location         : "Shanghai, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "xin.wang@sjtu.edu.cn"
+  email            : "zhouhuilin116@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
